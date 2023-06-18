@@ -41,8 +41,6 @@ requests library
 beautifulsoup4 library
 These dependencies can be installed using the pip package manager. Refer to the "Installation" section above for more details.
 
-## License
-This program is released under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. Refer to the LICENSE file for more information.
 
 ## Disclaimer
 This program is intended for educational and personal purposes only. 
