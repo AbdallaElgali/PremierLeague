@@ -1,5 +1,5 @@
 # Premier League Scraper
-This program is designed to scrape information about the current standings of the Premier League and allow users to retrieve match details for a specific date. The program retrieves data from two websites: https://www.skysports.com/premier-league-table for the current standings and https://sports.ndtv.com/english-premier-league/schedules-fixtures for match information.
+This program is designed to scrape information about the current standings of the Premier League and allow users to retrieve match details for a specific date. The program retrieves data from two websites: https://www.skysports.com/premier-league-table for the current standings and https://sports.ndtv.com/english-premier-league/schedules-fixtures for match information. 
 
 ## Installation
 To run the Premier League Scraper program, follow these steps:
@@ -45,6 +45,5 @@ These dependencies can be installed using the pip package manager. Refer to the 
 This program is released under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. Refer to the LICENSE file for more information.
 
 ## Disclaimer
-This program is intended for educational purposes only. The scraping of websites may be subject to legal restrictions or terms of service. Ensure that you comply with the terms of service of the websites you scrape and respect the intellectual property rights of the website owners.
+This program is intended for educational and personal purposes only. 
 
-Please use this program responsibly and avoid overloading the websites with excessive requests. Be considerate of the bandwidth and resources of the websites you scrape.
